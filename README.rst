@@ -7,10 +7,10 @@ Django Settings Resolver
 .. image:: https://coveralls.io/repos/jespino/django-sr/badge.png?branch=master
     :target: https://coveralls.io/r/jespino/django-sr?branch=master
 
-.. image:: https://pypip.in/v/django-sr/badge.png
+.. image:: https://img.shields.io/pypi/v/django-sr.svg
     :target: https://crate.io/packages/django-sr
 
-.. image:: https://pypip.in/d/django-sr/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-sr.svg
     :target: https://crate.io/packages/django-sr
 
 
